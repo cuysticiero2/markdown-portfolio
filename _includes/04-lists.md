@@ -1,5 +1,5 @@
 Replace this with a list of your favorite things.
 
-*   Red
-*   Green
-*   Blue
+ *   Red
+ *   Green
+ *   Blue
